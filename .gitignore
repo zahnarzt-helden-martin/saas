@@ -4,3 +4,5 @@ yarn-error.log
 production-server/
 saas/.DS_Store
 *.pem
+.DS_Store
+*.key
